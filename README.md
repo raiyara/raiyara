@@ -20,4 +20,4 @@ My journey has gone from **Civil Engineering → Data → AI**, learning whateve
 🚀 [Product Hunt](https://www.producthunt.com/@rodruey_simbul)
 🍀 [Vlog Channel](https://youtube.com/@raikogan11?si=0he6pMX_ebK_HbDg)
 
-**Obsessed too much with AI, all I do is work, I'm too good at solving problems, plus I'm your tech guy that can talk to clients (I have great social skills man 😎) **
+**Obsessed too much with AI, all I do is work, I'm too good at solving problems, plus I'm your tech guy that can talk to clients (I have great social skills man 😎)**

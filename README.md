@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**raiyara/raiyara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rodruey, an **AI Automation Engineer** building AI systems, software, and products.
 
-Here are some ideas to get you started:
+My journey has gone from **Civil Engineering → Data → AI**, learning whatever I needed along the way to build things and solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently building AI automation systems, AI applications, software, and my digital footprint in this world!
+
+🌱 I’m currently learning more about AI engineering, software development, building products, and making content!
+
+📫 How to reach me: **[rodruey@rodrueysimbul.com](mailto:rodruey@rodrueysimbul.com)**
+
+### Other socials:
+
+🌐 [Website](https://rodrueysimbul.com)
+💼 [LinkedIn](https://www.linkedin.com/in/rsimbul11)
+𝕏 [X](https://x.com/rodrueysimbul)
+▶️ [YouTube](https://www.youtube.com/@RodrueySimbul)
+🤗 [Hugging Face](https://huggingface.co/Raiyara)
+🚀 [Product Hunt](https://www.producthunt.com/@rodruey_simbul)
+🍀 [Vlog Channel](https://youtube.com/@raikogan11?si=0he6pMX_ebK_HbDg)
+
+**Building my way to freedom with love!**

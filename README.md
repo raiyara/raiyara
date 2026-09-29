@@ -8,6 +8,8 @@ My journey has gone from **Civil Engineering → Data → AI**, learning whateve
 
 🌱 I’m currently learning more about AI engineering, software development, building products, and making content!
 
+ Current Read: AI Engineering Chip Huyen | Current Build: n8n business infra
+
 📫 How to reach me: **[rodruey@rodrueysimbul.com](mailto:rodruey@rodrueysimbul.com)**
 
 ### Other socials:

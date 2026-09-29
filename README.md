@@ -27,10 +27,10 @@ My journey has gone from **Civil Engineering → Data → AI**, picking up AI en
 
 ### Other socials
 
-🌐 [Website](https://rodrueysimbul.com/)  
-💼 [LinkedIn](https://www.linkedin.com/in/rsimbul11)  
-𝕏 [X](https://x.com/rodrueysimbul)  
-▶️ [YouTube](https://www.youtube.com/@RodrueySimbul)  
-🤗 [Hugging Face](https://huggingface.co/Raiyara)  
-🚀 [Product Hunt](https://www.producthunt.com/@rodruey_simbul)  
-🍀 [Vlog Channel](https://youtube.com/@raikogan11?si=0he6pMX_ebK_HbDg)
+🌐 [Website](https://rodrueysimbul.com/) ·
+💼 [LinkedIn](https://www.linkedin.com/in/rsimbul11) ·
+𝕏 [X](https://x.com/rodrueysimbul) ·
+▶️ [YouTube](https://www.youtube.com/@RodrueySimbul) ·
+🤗 [Hugging Face](https://huggingface.co/Raiyara) ·
+🚀 [Product Hunt](https://www.producthunt.com/@rodruey_simbul) ·
+🍀 [Vlog Channel](https://youtube.com/@raikogan11)

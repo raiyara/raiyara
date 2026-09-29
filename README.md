@@ -1,25 +1,36 @@
-## Hi there 👋
+## Hi there 👋 
+ 
+I'm Rodruey. I design and build **AI solutions** for businesses and for my own life. 
+ 
+**Applied AI | AI Solutions | Software & Products** 
+ 
+I work across **AI automation workflows, RAG applications, AI agents, voice agents, AI-powered tools, APIs, MCPs,  software**, and I also build my own products, with a focus on evaluation and reliability.
 
-I'm Rodruey, an **AI Automation Engineer** building AI systems, software, and products.
+My journey has gone from **Civil Engineering → Data → AI**, picking up AI engineering, software development, machine learning, and many more to learn along the way!
 
-My journey has gone from **Civil Engineering → Data → AI**, learning whatever I needed along the way to build things and solve problems.
+🔭 **Currently building:** AI automation systems, AI applications, software, products, and my digital footprint in this world.
 
-🔭 I’m currently building AI automation systems, AI applications, software, and my digital footprint in this world!
+🌱 **Currently learning:** AI engineering, software development, product building, and content creation.
 
-🌱 I’m currently learning more about AI engineering, software development, building products, and making content!
+📖 **Current Read:** *AI Engineering* — Chip Huyen  
+🔨 **Current Build:** n8n business infrastructure
 
- Current Read: AI Engineering Chip Huyen | Current Build: n8n business infra
+### Things I've Built
 
-📫 How to reach me: **[rodruey@rodrueysimbul.com](mailto:rodruey@rodrueysimbul.com)**
+⚖️ [**LawMatch**](https://huggingface.co/spaces/Raiyara/lawmatch) — AI-powered legal matching application
 
-### Other socials:
+💻 [**FreelanceDesk**](https://freelancedesk.online/) — Chrome extension for managing freelance documents
 
-🌐 [Website](https://rodrueysimbul.com)
-💼 [LinkedIn](https://www.linkedin.com/in/rsimbul11)
-𝕏 [X](https://x.com/rodrueysimbul)
-▶️ [YouTube](https://www.youtube.com/@RodrueySimbul)
-🤗 [Hugging Face](https://huggingface.co/Raiyara)
-🚀 [Product Hunt](https://www.producthunt.com/@rodruey_simbul)
+☕ [**LockedIn Café**](https://chromewebstore.google.com/detail/aofmceegegcdifbiapflannblpadekbi?utm_source=item-share-cb) — productivity tool for focused work
+
+📫 **How to reach me:** [**rodruey@rodrueysimbul.com**](mailto:rodruey@rodrueysimbul.com)
+
+### Other socials
+
+🌐 [Website](https://rodrueysimbul.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/rsimbul11)  
+𝕏 [X](https://x.com/rodrueysimbul)  
+▶️ [YouTube](https://www.youtube.com/@RodrueySimbul)  
+🤗 [Hugging Face](https://huggingface.co/Raiyara)  
+🚀 [Product Hunt](https://www.producthunt.com/@rodruey_simbul)  
 🍀 [Vlog Channel](https://youtube.com/@raikogan11?si=0he6pMX_ebK_HbDg)
-
-**Obsessed too much with AI, all I do is work, I'm too good at solving problems, plus I'm your tech guy that can talk to clients (I have great social skills man 😎)**

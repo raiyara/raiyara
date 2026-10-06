@@ -13,7 +13,7 @@ My journey has gone from **Civil Engineering → Data → AI**, picking up AI en
 🌱 **Currently learning:** AI engineering, software development, product building, and content creation.
 
 📖 **Current Read:** *AI Engineering* — Chip Huyen  
-🔨 **Current Build:** n8n business infrastructure
+🔨 **Current Build:** denoise app (cause I only use capcut pro for denoise so currently building one using FFmpeg and DeepFilterNet
 
 ### Things I've Built
 
